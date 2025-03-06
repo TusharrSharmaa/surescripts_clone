@@ -1,5 +1,5 @@
-import HeroBanner from "@/components/banners/HeroBanner";
-import ContentWithCounter from "@/components/banners/ContentWithCounter";
+import HeroBanner from "@/components/sections/HeroBanner";
+import ContentWithCounter from "@/components/sections/ContentWithCounter";
 
 export default function Home() {
   return (

@@ -25,25 +25,25 @@ export default function Header() {
               href="/"
               className="link text-sm font-medium transition-colors hover:text-primary"
             >
-              Home
+              Why Surescripts
             </Link>
             <Link
               href="/about"
               className="link text-sm font-medium transition-colors hover:text-primary"
             >
-              About
+              What we do
             </Link>
             <Link
               href="/services"
               className="link text-sm font-medium transition-colors hover:text-primary"
             >
-              Services
+              Insights
             </Link>
             <Link
               href="/contact"
               className="link text-sm font-medium transition-colors hover:text-primary"
             >
-              Contact
+              Who we are
             </Link>
           </nav>
           <div className="hidden md:flex items-center gap-6">

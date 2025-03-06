@@ -7,8 +7,8 @@ import Footer from "@/components/footer"
 const inter = Roboto({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "My Website",
-  description: "A modern four-page website",
+  title: "Trusted intelligence | Surescripts",
+  description: "Trusted Health Intelligence Sharing",
 }
 
 export default function RootLayout({
